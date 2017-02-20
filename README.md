@@ -1,5 +1,5 @@
 ## 1. Компоненты
-1.1. Подключаем компоненты через [bower](http://bower.io/), не складываем исходники в проект. Указываем версии подключенных компонентов. [Подробнее](https://github.com/BrandyMint/frontend-styleguide/blob/master/components.md)
+1.1. Подключаем компоненты через [bower](http://bower.io/) или [npm](http://npmjs.com/), не складываем исходники в проект. Указываем версии подключенных компонентов. [Подробнее](https://github.com/BrandyMint/frontend-styleguide/blob/master/components.md)
 
 ## 2. Разметка
 2.1. Не добавляем классы в разметку, если они не используются стилями, 
